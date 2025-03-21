@@ -1,1 +1,2 @@
-this is again sample script
+#!/bin/bash
+
