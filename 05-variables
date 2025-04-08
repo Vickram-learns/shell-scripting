@@ -1,0 +1,10 @@
+#!/bin/bash
+
+echo "enter username"
+read USERNAME   #USERNAME is varible here
+
+echo "enter password"
+read PASSWORD
+
+echo "the username is $USERNAME & the password is $PASSWORD"
+

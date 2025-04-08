@@ -1,0 +1,8 @@
+#!/bin/bash
+
+TEAMS=("RCB" "CSK" "SRH" "MI")
+
+#size of the above array is 4
+#index are 0,1,2,3
+
+echo "first team is ${TEAMS[0]}"
